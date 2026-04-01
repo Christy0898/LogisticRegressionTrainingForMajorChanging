@@ -1,0 +1,2 @@
+# LogisticRegressionTrainingForMajorChanging
+个人第一篇机器学习论文源代码
